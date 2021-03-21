@@ -9,5 +9,13 @@
  * @author A
  */
 public class abc {
+    private String name;
+
+    public abc() {
+    }
+
+    public abc(String name) {
+        this.name = name;
+    }
     
 }
