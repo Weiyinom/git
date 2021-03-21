@@ -10,7 +10,7 @@
  */
 public class abc {
     private String name;
-
+    private String dob;
     public abc() {
     }
 
